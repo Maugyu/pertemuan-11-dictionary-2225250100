@@ -2,7 +2,6 @@
 # NIM: 2225250100
 # Kelas: 3A
 # Mata Kuliah: Algoritma dan Pemrograman
-# Pertemuan 11: Dictionary/Map
 
 # Fungsi untuk mencari mahasiswa berdasarkan NIM
 def cari_mahasiswa(data, nim):
