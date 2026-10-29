@@ -1,0 +1,10 @@
+# File cache Python
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+.venv/
+
+# Pengaturan editor
+.vscode/
